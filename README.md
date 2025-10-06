@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Project Banner](docs/screenshots/banner.png) <!-- if you have -->
+![Project Banner](https://github.com/AishwaryaGitay/shangri-la-petition-platform/blob/main/docs/Screenshots/HomePage.png) <!-- if you have -->
 
 **A comprehensive digital petition management system enabling citizens to create, sign, and track petitions**
 
@@ -199,6 +199,24 @@ Once both servers are running:
 - You should see the Shangri-La Petition Platform homepage
 - Test the login with admin credentials
 - Backend API is accessible at http://localhost:8082
+
+
+## 📸 Screenshots
+
+### Petitioner SignUp
+![Petitioner SignUp](https://github.com/AishwaryaGitay/shangri-la-petition-platform/blob/main/docs/Screenshots/Screenshot%202025-01-13%20023614.png)
+
+### All Petitions
+![All Petitions](https://github.com/AishwaryaGitay/shangri-la-petition-platform/blob/main/docs/Screenshots/Screenshot%202025-01-13%20025112.png)
+
+### Petitioner's Petition
+![My Petition](https://github.com/AishwaryaGitay/shangri-la-petition-platform/blob/main/docs/Screenshots/Screenshot%202025-01-13%20025140.png)
+
+### Admin Dashboard
+![Admin Dashboard](https://github.com/AishwaryaGitay/shangri-la-petition-platform/blob/main/docs/Screenshots/Screenshot%202025-01-13%20025227.png)
+
+### QR Code
+![QR Code](https://github.com/AishwaryaGitay/shangri-la-petition-platform/blob/main/docs/Screenshots/Screenshot%202025-01-13%20023954.png)
 
 
 ## 🤝 Contributing
